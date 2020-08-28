@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapChannels", "Console\SwapChannels.csproj", "{1B7B6774-1FE2-45BA-ABFB-A1A8F26FFF36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapChannels.Application", "App\SwapChannels.Application.csproj", "{1D943911-4F86-415F-B6E9-F150D782416A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapChannels.Shared", "Shared\SwapChannels.Shared.csproj", "{1E5FCE5C-9028-43CD-BB5D-E0BF23A90084}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1B7B6774-1FE2-45BA-ABFB-A1A8F26FFF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B7B6774-1FE2-45BA-ABFB-A1A8F26FFF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B7B6774-1FE2-45BA-ABFB-A1A8F26FFF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D943911-4F86-415F-B6E9-F150D782416A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D943911-4F86-415F-B6E9-F150D782416A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D943911-4F86-415F-B6E9-F150D782416A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D943911-4F86-415F-B6E9-F150D782416A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5FCE5C-9028-43CD-BB5D-E0BF23A90084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5FCE5C-9028-43CD-BB5D-E0BF23A90084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5FCE5C-9028-43CD-BB5D-E0BF23A90084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5FCE5C-9028-43CD-BB5D-E0BF23A90084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
