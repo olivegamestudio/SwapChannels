@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SwapChannels": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"C:\\Dev\\OliveGameStudio\\OliveGameStudio.Game.Skyliner\\WinDesktop\\Content\\play yellw button.png\""
+    }
+  }
+}
